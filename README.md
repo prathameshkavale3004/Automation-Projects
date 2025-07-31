@@ -34,7 +34,7 @@ This project demonstrates automated testing of the [ExpandTesting Practice Websi
 ### API Automation
 
 1. Open the `/api-automation` folder.
-2. Run test classes as JUnit/TestNG tests.
+2. Run test classes as TestNG tests.
 3. Make sure `baseURI` and any required tokens are correctly set.
 4. Run 'UserTest.java' file.
 
