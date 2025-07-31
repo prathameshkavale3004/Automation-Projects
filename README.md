@@ -44,4 +44,4 @@ This project demonstrates automated testing of the [ExpandTesting Practice Websi
 
 **Prathamesh Kavale**  
 Test Automation Engineer  
-Email: *[your-email@example.com]*
+Email: *[ptkavale@gmail.com]*
