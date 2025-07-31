@@ -29,7 +29,7 @@ This project demonstrates automated testing of the [ExpandTesting Practice Websi
 
 1. Open the `/ui-automation` folder in your IDE.
 2. Ensure dependencies are managed using Maven/Gradle.
-3. Run the individual test classes.
+3. Run 'LoginTest.java' and 'FileUploadTest' classes.
 
 ### API Automation
 
@@ -43,5 +43,4 @@ This project demonstrates automated testing of the [ExpandTesting Practice Websi
 ##  Author
 
 **Prathamesh Kavale**  
-Test Automation Engineer  
 Email: *[ptkavale@gmail.com]*
