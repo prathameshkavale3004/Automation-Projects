@@ -1,13 +1,5 @@
 UI & API Automation Testing – ExpandTesting Practice Project
 
-This project demonstrates automated testing of the [ExpandTesting Practice Website](https://practice.expandtesting.com) including both UI and REST API layers. The project includes:
-
-- Automated UI tests using Selenium + TestNG + Java
-- Automated API tests using Rest Assured + Java
-
-
-UI & API Automation Testing – ExpandTesting Practice Project
-
 This project demonstrates automated testing of the [ExpandTesting Practice Website](https://practice.expandtesting.com) including both **UI** and **REST API** layers. The project includes:
 
 
