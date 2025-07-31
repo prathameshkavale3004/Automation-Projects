@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-31T03:36:59 IST" name="Default suite" finished-at="2025-07-31T03:37:04 IST" duration-ms="5001">
+    <groups>
+    </groups>
+    <test started-at="2025-07-31T03:36:59 IST" name="Default test" finished-at="2025-07-31T03:37:04 IST" duration-ms="5001">
+      <class name="com.testing.api_automation.UserTest">
+        <test-method signature="createUser()[pri:1, instance:com.testing.api_automation.UserTest@4ac3c60d]" started-at="2025-07-31T03:36:59 IST" name="createUser" finished-at="2025-07-31T03:37:02 IST" duration-ms="3171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="loginUser()[pri:2, instance:com.testing.api_automation.UserTest@4ac3c60d]" started-at="2025-07-31T03:37:02 IST" name="loginUser" finished-at="2025-07-31T03:37:03 IST" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser -->
+        <test-method signature="createNote()[pri:3, instance:com.testing.api_automation.UserTest@4ac3c60d]" started-at="2025-07-31T03:37:03 IST" name="createNote" finished-at="2025-07-31T03:37:04 IST" duration-ms="530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNote -->
+        <test-method signature="getAllNotes()[pri:4, instance:com.testing.api_automation.UserTest@4ac3c60d]" started-at="2025-07-31T03:37:04 IST" name="getAllNotes" finished-at="2025-07-31T03:37:04 IST" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllNotes -->
+      </class> <!-- com.testing.api_automation.UserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
